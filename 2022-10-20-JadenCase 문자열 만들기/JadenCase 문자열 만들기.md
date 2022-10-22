@@ -18,3 +18,4 @@ JadenCase란 모든 단어의 첫 문자가 대문자이고, 그 외의 알파�
 |------|------|
 |"3people unFollowed me"|"3people Unfollowed Me"|
 |"for the last week"|"For The Last Week"|
+ 
